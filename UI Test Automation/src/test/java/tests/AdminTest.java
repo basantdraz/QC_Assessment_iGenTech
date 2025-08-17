@@ -54,7 +54,7 @@ public class AdminTest {
         // 8. Search for the new user
         adminPage.searchUser("testeruser");
 
-        // 9. Delete The user
+        // 9. Delete The user added
         adminPage.deleteUser();
 
         //10. Verify the record number decreased by 1
