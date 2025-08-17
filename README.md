@@ -52,24 +52,6 @@ Right-click on the project → Maven → Reload project
 
 4.Place the ChromeDriver executable in the resources/ folder of the project.
 
----
-## Project Structure
-project/
-├── src/
-│   ├── main/
-│   │   ├── java/
-│   │   │   └── pages/
-│   │   │       ├── LoginPage.java
-│   │   │       ├── DashboardPage.java
-│   │   │       ├── AdminPage.java
-│   │   │       └── AddUserPage.java
-│   │   └── resources/
-│   │       └── chromedriver.exe
-│   └── test/
-│       └── java/
-│           └── tests/
-│               └── AdminUserTest.java
-└── pom.xml
 
 
 #########################################################
