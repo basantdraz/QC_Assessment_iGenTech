@@ -115,8 +115,10 @@ Right-click on project → Maven → Reload project
 #######################
 ## Notes
 -Ensure your Chrome version matches the ChromeDriver version in the resources folder.
+
 -The code uses explicit waits and assertions to make tests reliable and maintainable.
+
 -Make sure the OrangeHRM local server is running and URLs are correctly configured.
+
 -Tests use assertions to validate API responses.
-    </dependency>
-</dependencies>
+   
