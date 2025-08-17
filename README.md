@@ -108,6 +108,7 @@ This project automates the testing of **OrangeHRM REST APIs** using **REST Assur
 [OrangeHRM server](https://github.com/orangehrm/orangehrm)
 
 2.Update localhost URL in the API test code if necessary.
+
 3.Open the project in IntelliJ IDEA and reload Maven dependencies:
 Right-click on project → Maven → Reload project
 
